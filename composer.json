@@ -1,5 +1,5 @@
 {
-  "name": "cviebrock/laravel-mangopay",
+  "name": "ryolay/laravel-mangopay",
   "description": "Laravel/Lumen wrapper for the office Mangopay SDK library",
   "keywords": [
     "laravel",
@@ -7,12 +7,7 @@
     "mangopay",
     "payments"
   ],
-  "authors": [
-    {
-      "name": "Colin Viebrock",
-      "email": "colin@viebrock.ca"
-    }
-  ],
+  "authors": [],
   "license": "MIT",
   "require": {
     "php": "^7.3|^8.0",
